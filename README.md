@@ -1,2 +1,12 @@
-# bottle-cors
-bottle.py CORS plugin
+# BottleCORS
+CORS plugin for Bottle
+
+## Installation
+### Pip
+```bash
+```
+
+### Source
+```bash
+
+```
