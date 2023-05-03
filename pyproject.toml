@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "bottle-cors"
+name = "bottle-cors2"
 version = "0.0.1"
 authors = [{ name = "TJ Renninger", email = "renninger12@gmail.com" }]
 description = "CORS plugin for Bottle"
